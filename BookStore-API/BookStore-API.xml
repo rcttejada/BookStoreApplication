@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BookStore-API</name>
+    </assembly>
+    <members>
+        <member name="T:BookStore_API.Controllers.HomeController">
+            <summary>
+            This is a test API controller
+            </summary>
+        </member>
+        <member name="M:BookStore_API.Controllers.HomeController.Get">
+            <summary>
+            This is a test Get Controller
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
