@@ -12,5 +12,8 @@ namespace BookStore_API.Data
             : base(options)
         {
         }
+
+        DbSet<Author> Authors { get; set; }
+        DbSet<Book> Books { get; set; }
     }
 }
