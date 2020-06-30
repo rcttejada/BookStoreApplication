@@ -9,7 +9,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DocumentationFile>D:\VS Projects\BookStoreApplication\BookStore-API\BookStore-API.xml</DocumentationFile>
     <WarningLevel>4</WarningLevel>
-    <NoWarn>1701;1702;1591</NoWarn>
+    <NoWarn>1701;1702;1591,1572</NoWarn>
   </PropertyGroup>
 
   <ItemGroup>

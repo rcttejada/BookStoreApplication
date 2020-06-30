@@ -1,0 +1,8 @@
+2020-07-01 00:42:42.0191 INFO Author Submission Attempted
+2020-07-01 00:42:47.5451 INFO Author Created
+2020-07-01 00:44:05.0008 INFO Author Submission Attempted
+2020-07-01 00:44:05.7381 INFO Author Created
+2020-07-01 00:48:52.2798 INFO Author Submission Attempted
+2020-07-01 00:49:28.4808 INFO Author Created
+2020-07-01 00:58:37.3258 INFO Author with id: 1003 Delete Attempted
+2020-07-01 00:58:41.7786 WARN Author with id: 1003 succesfully deleted
