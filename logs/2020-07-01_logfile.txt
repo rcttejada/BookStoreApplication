@@ -6,3 +6,39 @@
 2020-07-01 00:49:28.4808 INFO Author Created
 2020-07-01 00:58:37.3258 INFO Author with id: 1003 Delete Attempted
 2020-07-01 00:58:41.7786 WARN Author with id: 1003 succesfully deleted
+2020-07-01 03:20:56.6462 INFO Books - GetBooks: Attmpted Call
+2020-07-01 03:21:00.2518 INFO Books - GetBooks: Successful
+2020-07-01 03:21:17.1401 INFO Books - GetBook: Attmpted Call for id: 1
+2020-07-01 03:21:17.6566 WARN Books - GetBook: Failed to retrieve record with id: 1
+2020-07-01 03:54:59.8763 INFO Books - Create: Create Attempted
+2020-07-01 03:55:00.6165 ERROR Books - Create: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+BookCreateDTO -> Book
+BookStore_API.DTOs.BookCreateDTO -> BookStore_API.Data.Book - 
+2020-07-01 03:56:39.3302 INFO Books - Create: Create Attempted
+2020-07-01 03:56:43.3582 ERROR Books - Create: An error occurred while updating the entries. See the inner exception for details. - Microsoft.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Books_Authors". The conflict occurred in database "BookStore", table "dbo.Authors", column 'Id'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__164_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__274_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:b3585987-ab42-4455-93e9-d44707169000
+Error Number:547,State:0,Class:16
+2020-07-01 03:57:26.2960 INFO Books - Create: Create Attempted
+2020-07-01 03:57:26.5693 INFO Books - Create: Creation was succesful
+2020-07-01 03:57:26.5693 INFO Books - Create: BookStore_API.Data.Book
+2020-07-01 03:58:14.2204 INFO Authors - GetAuthor: Executed with Id:1004
+2020-07-01 03:58:14.7379 INFO Authors - GetAuthor: Successfull with Id:1004
+2020-07-01 04:22:32.1261 INFO Books - Update: Update Attempted on record with id:1004
+2020-07-01 04:22:34.8465 WARN Books - Update: Failed to retrieve record with id: 1004
+2020-07-01 04:38:44.2018 INFO Books - Update: Update Attempted on record with id:2
+2020-07-01 04:38:47.7909 WARN Books - Update: Record with id: 2 successfulyy updated

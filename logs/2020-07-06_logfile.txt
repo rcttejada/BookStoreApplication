@@ -1,0 +1,38 @@
+2020-07-06 01:35:25.2656 INFO Books - Create: Create Attempted
+2020-07-06 01:35:30.4191 INFO Books - Create: Creation was succesful
+2020-07-06 01:35:30.4226 INFO Books - Create: BookStore_API.Data.Book
+2020-07-06 01:35:39.7199 INFO Books - Create: Create Attempted
+2020-07-06 01:35:39.8445 INFO Books - Create: Creation was succesful
+2020-07-06 01:35:39.8445 INFO Books - Create: BookStore_API.Data.Book
+2020-07-06 01:35:45.7264 INFO Books - Create: Create Attempted
+2020-07-06 01:35:45.8104 INFO Books - Create: Creation was succesful
+2020-07-06 01:35:45.8104 INFO Books - Create: BookStore_API.Data.Book
+2020-07-06 01:36:14.3990 INFO Authors - GetAuthors : Executed
+2020-07-06 01:36:15.1460 INFO Authors - GetAuthors: Successfull
+2020-07-06 01:36:29.6900 INFO Books - GetBooks: Attmpted Call
+2020-07-06 01:36:30.6728 ERROR Books - GetBooks: Unable to cast object of type 'System.Decimal' to type 'System.Double'. - 
+2020-07-06 01:37:53.3427 INFO Books - Delete: Delete Attempted on record with - id: 1
+2020-07-06 01:37:53.8582 ERROR Books - Delete: Value cannot be null. (Parameter 'entity') - 
+2020-07-06 01:38:09.7835 INFO Books - Delete: Delete Attempted on record with - id: 1
+2020-07-06 01:38:09.9929 ERROR Books - Delete: Value cannot be null. (Parameter 'entity') - 
+2020-07-06 01:38:17.7626 INFO Books - Delete: Delete Attempted on record with - id: 2
+2020-07-06 01:38:17.7917 WARN Books - Delete: Delete failed to retrieve record with - id: 2
+2020-07-06 01:38:39.9579 INFO Books - Delete: Delete Attempted on record with - id: 2
+2020-07-06 01:38:39.9716 WARN Books - Delete: Delete failed to retrieve record with - id: 2
+2020-07-06 01:43:15.8754 INFO Books - Delete: Delete Attempted on record with - id: 2
+2020-07-06 01:43:18.5680 WARN Books - Delete: Delete failed to retrieve record with - id: 2
+2020-07-06 01:43:50.9046 INFO Books - Delete: Delete Attempted on record with - id: 2
+2020-07-06 01:43:50.9949 WARN Books - Delete: Delete failed to retrieve record with - id: 2
+2020-07-06 01:44:41.1096 INFO Books - Delete: Delete Attempted on record with - id: 2
+2020-07-06 01:45:36.8810 WARN Books - Delete: Delete failed to retrieve record with - id: 2
+2020-07-06 01:51:40.7664 INFO Books - Delete: Delete Attempted on record with - id: 2
+2020-07-06 01:51:43.0031 WARN Books - Delete: Delete failed to retrieve record with - id: 2
+2020-07-06 01:52:04.6354 INFO Books - Delete: Delete Attempted on record with - id: 5
+2020-07-06 01:52:04.7084 WARN Books - Delete: Delete failed to retrieve record with - id: 5
+2020-07-06 01:55:28.7512 INFO Books - Delete: Delete Attempted on record with id: 2 
+2020-07-06 01:55:31.4506 INFO Books - Delete: Record with id: 2 successfully deleted
+2020-07-06 01:57:58.5482 INFO Books - Create: Create Attempted
+2020-07-06 01:58:02.2619 INFO Books - Create: Creation was succesful
+2020-07-06 01:58:02.2619 INFO Books - Create: BookStore_API.Data.Book
+2020-07-06 01:58:17.3920 INFO Books - Delete: Delete Attempted on record with - id: 3
+2020-07-06 01:58:17.8737 INFO Books - Delete: Record with id: 3 successfully deleted
