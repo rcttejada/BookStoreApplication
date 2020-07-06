@@ -36,3 +36,32 @@
 2020-07-06 01:58:02.2619 INFO Books - Create: BookStore_API.Data.Book
 2020-07-06 01:58:17.3920 INFO Books - Delete: Delete Attempted on record with - id: 3
 2020-07-06 01:58:17.8737 INFO Books - Delete: Record with id: 3 successfully deleted
+2020-07-06 22:35:11.0599 INFO Users - Login: Login Attemp from user customer1
+2020-07-06 22:35:11.2978 INFO Users - Login: customer1 Not Authenticated
+2020-07-06 22:35:34.7746 INFO Users - Login: Login Attemp from user customer1
+2020-07-06 22:35:34.8367 INFO Users - Login: customer1 Not Authenticated
+2020-07-06 22:35:50.1038 INFO Users - Login: Login Attemp from user admin
+2020-07-06 22:35:50.1976 INFO Users - Login: admin Not Authenticated
+2020-07-06 22:39:40.3571 INFO Users - Login: Login Attemp from user admin
+2020-07-06 22:39:40.5177 INFO Users - Login: admin Not Authenticated
+2020-07-06 22:40:01.0086 INFO Users - Login: Login Attemp from user admin
+2020-07-06 22:40:01.0948 INFO Users - Login: admin Not Authenticated
+2020-07-06 22:43:20.4706 INFO Users - Login: Login Attemp from user admin
+2020-07-06 22:43:20.7040 INFO Users - Login: admin Not Authenticated
+2020-07-06 22:46:45.6390 INFO Users - Login: Login Attemp from user admin
+2020-07-06 22:46:45.8200 INFO Users - Login: admin Not Authenticated
+2020-07-06 22:47:37.3661 INFO Users - Login: Login Attemp from user admin
+2020-07-06 22:47:37.4185 INFO Users - Login: admin Not Authenticated
+2020-07-06 22:48:37.0050 INFO Users - Login: Login Attemp from user admin
+2020-07-06 22:48:37.9518 INFO Users - Login: admin Successfully Authenticated
+2020-07-06 22:59:05.5287 INFO Authors - GetAuthors : Executed
+2020-07-06 22:59:05.9634 INFO Authors - GetAuthors: Successfull
+2020-07-06 22:59:35.6556 INFO Authors - GetAuthor: Executed with Id:2
+2020-07-06 22:59:35.7376 INFO Authors - GetAuthor: Successfull with Id:2
+2020-07-06 23:01:16.9445 INFO Users - Login: Login Attemp from user customer1
+2020-07-06 23:01:17.2581 INFO Users - Login: customer1 Successfully Authenticated
+2020-07-06 23:03:11.9254 INFO Users - Login: Login Attemp from user admin
+2020-07-06 23:03:12.0607 INFO Users - Login: admin Successfully Authenticated
+2020-07-06 23:03:36.7211 INFO Authors - Create: Create Attempted
+2020-07-06 23:03:37.5490 INFO Authors - Create: Creation was Successful
+2020-07-06 23:03:37.5490 INFO Authors - Create: BookStore_API.Data.Author
