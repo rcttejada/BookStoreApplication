@@ -1,0 +1,37 @@
+2020-07-08 00:38:28.3739 INFO Users - Login: Login Attemp from user admin@bookstore.com
+2020-07-08 00:38:28.5315 INFO Users - Login: admin@bookstore.com Not Authenticated
+2020-07-08 00:39:08.1215 INFO Users - Login: Login Attemp from user tejada.roland@gmail.com
+2020-07-08 00:39:08.4524 INFO Users - Login: tejada.roland@gmail.com Successfully Authenticated
+2020-07-08 00:43:50.6227 INFO Users - Login: Login Attemp from user customer1@gmail.com
+2020-07-08 00:43:50.7181 INFO Users - Login: customer1@gmail.com Not Authenticated
+2020-07-08 00:44:08.7730 INFO Users - Login: Login Attemp from user customer2@gmail.com
+2020-07-08 00:44:08.8005 INFO Users - Login: customer2@gmail.com Not Authenticated
+2020-07-08 00:44:59.0431 INFO Users - Login: Login Attemp from user tejada.roland@gmail.com
+2020-07-08 00:44:59.2350 INFO Users - Login: tejada.roland@gmail.com Successfully Authenticated
+2020-07-08 00:47:14.5687 INFO Users - Register: Registration Attempt for otejada@gmail.com
+2020-07-08 00:47:41.5657 INFO Users - Login: Login Attemp from user otejada@gmail.com
+2020-07-08 00:47:41.6122 INFO Users - Login: otejada@gmail.com Successfully Authenticated
+2020-07-08 00:50:10.1150 INFO Users - Login: Login Attemp from user customer1@gmail.com
+2020-07-08 00:50:10.1349 INFO Users - Login: customer1@gmail.com Not Authenticated
+2020-07-08 00:50:33.6080 INFO Users - Login: Login Attemp from user customer1@gmail.com
+2020-07-08 00:50:33.6080 INFO Users - Login: customer1@gmail.com Not Authenticated
+2020-07-08 00:50:36.5462 INFO Users - Login: Login Attemp from user customer1@gmail.com
+2020-07-08 00:50:36.5633 INFO Users - Login: customer1@gmail.com Not Authenticated
+2020-07-08 00:50:39.4628 INFO Users - Login: Login Attemp from user customer1@gmail.com
+2020-07-08 00:50:39.4773 INFO Users - Login: customer1@gmail.com Not Authenticated
+2020-07-08 00:50:58.4172 INFO Users - Login: Login Attemp from user customer2@gmail.com
+2020-07-08 00:50:58.4245 INFO Users - Login: customer2@gmail.com Not Authenticated
+2020-07-08 00:52:40.4552 INFO Users - Login: Login Attemp from user admin@bookstore.com
+2020-07-08 00:52:40.5577 INFO Users - Login: admin@bookstore.com Not Authenticated
+2020-07-08 00:53:18.8184 INFO Users - Login: Login Attemp from user customer1@gmail.com
+2020-07-08 00:53:18.8447 INFO Users - Login: customer1@gmail.com Not Authenticated
+2020-07-08 00:53:21.9921 INFO Users - Login: Login Attemp from user customer1@gmail.com
+2020-07-08 00:53:21.9984 INFO Users - Login: customer1@gmail.com Not Authenticated
+2020-07-08 00:53:40.9571 INFO Users - Login: Login Attemp from user customer1@gmail.com
+2020-07-08 00:53:40.9769 INFO Users - Login: customer1@gmail.com Not Authenticated
+2020-07-08 01:04:55.2629 INFO Users - Register: Registration Attempt for arwen@gmail.com
+2020-07-08 01:05:29.0939 INFO Users - Login: Login Attemp from user arwen@gmail.com
+2020-07-08 01:05:29.3149 INFO Users - Login: arwen@gmail.com Successfully Authenticated
+2020-07-08 01:07:45.5465 INFO Users - Register: Registration Attempt for oliver@gmail.com
+2020-07-08 01:08:16.5058 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-08 01:08:16.7424 INFO Users - Login: oliver@gmail.com Successfully Authenticated
