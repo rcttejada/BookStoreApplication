@@ -35,3 +35,119 @@
 2020-07-08 01:07:45.5465 INFO Users - Register: Registration Attempt for oliver@gmail.com
 2020-07-08 01:08:16.5058 INFO Users - Login: Login Attemp from user oliver@gmail.com
 2020-07-08 01:08:16.7424 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-08 01:45:01.5621 INFO Users - Login: Login Attemp from user otejada@gmail.com
+2020-07-08 01:45:01.9151 INFO Users - Login: otejada@gmail.com Successfully Authenticated
+2020-07-08 05:15:31.0611 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-08 05:15:31.5441 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-08 05:15:49.8808 INFO Authors - GetAuthors : Executed
+2020-07-08 05:15:51.1428 INFO Authors - GetAuthors: Successfull
+2020-07-08 16:04:39.9190 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-08 16:04:40.3993 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-08 16:04:47.6841 INFO Authors - GetAuthors : Executed
+2020-07-08 16:04:47.8270 INFO Authors - GetAuthors: Successfull
+2020-07-08 16:04:52.9355 INFO Authors - GetAuthors : Executed
+2020-07-08 16:04:52.9479 INFO Authors - GetAuthors: Successfull
+2020-07-08 16:04:56.1932 INFO Authors - GetAuthors : Executed
+2020-07-08 16:04:56.2145 INFO Authors - GetAuthors: Successfull
+2020-07-08 16:04:58.5429 INFO Authors - GetAuthors : Executed
+2020-07-08 16:04:58.6046 INFO Authors - GetAuthors: Successfull
+2020-07-08 16:27:45.6540 INFO Authors - GetAuthors : Executed
+2020-07-08 16:27:45.7050 INFO Authors - GetAuthors: Successfull
+2020-07-08 16:28:10.7883 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-08 16:28:10.8638 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-08 16:28:13.3996 INFO Authors - GetAuthors : Executed
+2020-07-08 16:28:13.4302 INFO Authors - GetAuthors: Successfull
+2020-07-08 18:03:53.4042 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-08 18:03:53.8208 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-08 18:03:56.1983 INFO Authors - GetAuthors : Executed
+2020-07-08 18:03:56.3093 INFO Authors - GetAuthors: Successfull
+2020-07-08 18:10:03.4967 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-08 18:10:03.7545 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-08 18:10:06.1130 INFO Authors - GetAuthors : Executed
+2020-07-08 18:10:06.2301 INFO Authors - GetAuthors: Successfull
+2020-07-08 18:10:07.9636 INFO Authors - GetAuthor: Executed with Id:1
+2020-07-08 18:10:08.0024 INFO Authors - GetAuthor: Successfull with Id:1
+2020-07-08 18:31:23.8927 INFO Authors - GetAuthors : Executed
+2020-07-08 18:31:23.9351 INFO Authors - GetAuthors: Successfull
+2020-07-08 18:31:35.4469 INFO Authors - GetAuthor: Executed with Id:1005
+2020-07-08 18:31:35.4639 INFO Authors - GetAuthor: Successfull with Id:1005
+2020-07-08 18:31:44.2063 INFO Authors - GetAuthors : Executed
+2020-07-08 18:31:44.2274 INFO Authors - GetAuthors: Successfull
+2020-07-08 20:56:02.2627 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-08 20:56:02.6223 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-08 20:56:04.2126 INFO Authors - GetAuthors : Executed
+2020-07-08 20:56:04.3377 INFO Authors - GetAuthors: Successfull
+2020-07-08 20:56:05.9156 INFO Authors - GetAuthor: Executed with Id:1
+2020-07-08 20:56:05.9501 INFO Authors - GetAuthor: Successfull with Id:1
+2020-07-08 20:56:13.0666 INFO Authors - GetAuthors : Executed
+2020-07-08 20:56:13.0895 INFO Authors - GetAuthors: Successfull
+2020-07-08 20:56:14.8282 INFO Authors - GetAuthor: Executed with Id:1
+2020-07-08 20:56:14.8421 INFO Authors - GetAuthor: Successfull with Id:1
+2020-07-08 20:56:53.2857 INFO Authors - GetAuthors : Executed
+2020-07-08 20:56:53.3058 INFO Authors - GetAuthors: Successfull
+2020-07-08 20:56:56.3702 INFO Authors - GetAuthor: Executed with Id:2
+2020-07-08 20:56:56.4118 INFO Authors - GetAuthor: Successfull with Id:2
+2020-07-08 21:03:36.6508 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-08 21:03:36.9055 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-08 21:03:39.1869 INFO Authors - GetAuthors : Executed
+2020-07-08 21:03:39.3215 INFO Authors - GetAuthors: Successfull
+2020-07-08 21:03:45.1753 INFO Authors - GetAuthor: Executed with Id:1
+2020-07-08 21:03:45.2303 INFO Authors - GetAuthor: Successfull with Id:1
+2020-07-08 21:03:48.9430 INFO Authors - GetAuthors : Executed
+2020-07-08 21:03:48.9580 INFO Authors - GetAuthors: Successfull
+2020-07-08 21:03:50.5461 INFO Authors - GetAuthor: Executed with Id:1
+2020-07-08 21:03:50.5586 INFO Authors - GetAuthor: Successfull with Id:1
+2020-07-08 21:04:03.3609 INFO Authors - Update: Update Attempted on record with id:1
+2020-07-08 21:04:03.9340 WARN Authors - Update: Record with id: 1 successfulyy updated
+2020-07-08 21:04:04.0079 INFO Authors - GetAuthors : Executed
+2020-07-08 21:04:04.0135 INFO Authors - GetAuthors: Successfull
+2020-07-08 21:04:08.2501 INFO Authors - GetAuthor: Executed with Id:1
+2020-07-08 21:04:08.2798 INFO Authors - GetAuthor: Successfull with Id:1
+2020-07-08 21:22:22.6689 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-08 21:22:23.0156 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-08 21:22:25.1003 INFO Authors - GetAuthors : Executed
+2020-07-08 21:22:25.2400 INFO Authors - GetAuthors: Successfull
+2020-07-08 21:22:27.0014 INFO Authors - GetAuthor: Executed with Id:1
+2020-07-08 21:22:27.0411 INFO Authors - GetAuthor: Successfull with Id:1
+2020-07-08 21:22:28.3452 INFO Authors - GetAuthors : Executed
+2020-07-08 21:22:28.3555 INFO Authors - Update: Update Attempted on record with id:1
+2020-07-08 21:22:28.3770 INFO Authors - GetAuthors: Successfull
+2020-07-08 21:22:28.7087 WARN Authors - Update: Record with id: 1 successfulyy updated
+2020-07-08 21:22:29.3465 INFO Authors - GetAuthor: Executed with Id:1
+2020-07-08 21:22:29.3705 INFO Authors - GetAuthor: Successfull with Id:1
+2020-07-08 21:22:31.4427 INFO Authors - GetAuthors : Executed
+2020-07-08 21:22:31.4483 INFO Authors - Update: Update Attempted on record with id:1
+2020-07-08 21:22:31.4483 INFO Authors - GetAuthors: Successfull
+2020-07-08 21:22:31.4854 WARN Authors - Update: Record with id: 1 successfulyy updated
+2020-07-08 21:22:37.8758 INFO Authors - GetAuthor: Executed with Id:1005
+2020-07-08 21:22:37.9113 INFO Authors - GetAuthor: Successfull with Id:1005
+2020-07-08 21:22:40.3598 INFO Authors - Update: Update Attempted on record with id:1005
+2020-07-08 21:22:40.3960 WARN Authors - Update: Record with id: 1005 successfulyy updated
+2020-07-08 21:22:40.4452 INFO Authors - GetAuthors : Executed
+2020-07-08 21:22:40.4508 INFO Authors - GetAuthors: Successfull
+2020-07-08 21:22:49.9807 INFO Authors - GetAuthor: Executed with Id:1005
+2020-07-08 21:22:50.0089 INFO Authors - GetAuthor: Successfull with Id:1005
+2020-07-08 21:22:53.6530 INFO Authors - Update: Update Attempted on record with id:1005
+2020-07-08 21:22:53.6994 WARN Authors - Update: Record with id: 1005 successfulyy updated
+2020-07-08 21:22:53.7661 INFO Authors - GetAuthors : Executed
+2020-07-08 21:22:53.7661 INFO Authors - GetAuthors: Successfull
+2020-07-08 21:26:53.8711 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-08 21:26:54.1683 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-08 21:26:55.4455 INFO Authors - GetAuthors : Executed
+2020-07-08 21:26:55.5224 INFO Authors - GetAuthors: Successfull
+2020-07-08 21:26:57.5268 INFO Authors - GetAuthor: Executed with Id:1005
+2020-07-08 21:26:57.5814 INFO Authors - GetAuthor: Successfull with Id:1005
+2020-07-08 21:27:15.1363 INFO Authors - Update: Update Attempted on record with id:1005
+2020-07-08 21:27:15.3675 WARN Authors - Update: Record with id: 1005 successfulyy updated
+2020-07-08 21:27:15.4206 INFO Authors - GetAuthors : Executed
+2020-07-08 21:27:15.4206 INFO Authors - GetAuthors: Successfull
+2020-07-08 21:28:19.1853 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-08 21:28:19.4760 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-08 21:28:22.2205 INFO Authors - GetAuthors : Executed
+2020-07-08 21:28:22.3418 INFO Authors - GetAuthors: Successfull
+2020-07-08 21:28:24.3268 INFO Authors - GetAuthor: Executed with Id:1005
+2020-07-08 21:28:24.3630 INFO Authors - GetAuthor: Successfull with Id:1005
+2020-07-08 21:28:30.8736 INFO Authors - Delete: id: 1005 Delete Attempted
+2020-07-08 21:28:31.1627 WARN Authors - Delete: id: 1005 succesfully deleted
+2020-07-08 21:28:31.2108 INFO Authors - GetAuthors : Executed
+2020-07-08 21:28:31.2148 INFO Authors - GetAuthors: Successfull

@@ -35,7 +35,7 @@ namespace BookStore_UI.Providers
                 
                 if(expiry < DateTime.Now)
                 {
-                    //i f expired remove the token = logout everyone
+                    //if expired remove the token = logout everyone
                     await _localStorage.RemoveItemAsync("authToken");
                     return new AuthenticationState(new ClaimsPrincipal(new ClaimsIdentity()));
                 }

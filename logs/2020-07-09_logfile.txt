@@ -1,0 +1,95 @@
+2020-07-09 00:00:26.0704 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 00:00:26.6730 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 00:00:31.7022 INFO Authors - GetAuthors : Executed
+2020-07-09 00:00:31.7920 INFO Authors - GetAuthors: Successfull
+2020-07-09 00:00:43.8297 INFO Authors - GetAuthor: Executed with Id:1
+2020-07-09 00:00:43.8674 INFO Authors - GetAuthor: Successfull with Id:1
+2020-07-09 00:00:49.4371 INFO Authors - Update: Update Attempted on record with id:1
+2020-07-09 00:00:49.8293 WARN Authors - Update: Record with id: 1 successfulyy updated
+2020-07-09 00:00:49.9150 INFO Authors - GetAuthors : Executed
+2020-07-09 00:00:49.9150 INFO Authors - GetAuthors: Successfull
+2020-07-09 00:01:00.7585 INFO Authors - GetAuthors : Executed
+2020-07-09 00:01:00.7771 INFO Authors - GetAuthors: Successfull
+2020-07-09 00:01:30.6716 INFO Authors - GetAuthors : Executed
+2020-07-09 00:01:30.6941 INFO Authors - GetAuthors: Successfull
+2020-07-09 00:02:32.9194 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 00:02:33.2122 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 00:02:35.2893 INFO Authors - GetAuthors : Executed
+2020-07-09 00:02:35.4289 INFO Authors - GetAuthors: Successfull
+2020-07-09 00:05:15.1950 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 00:05:15.4483 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 00:05:19.9637 INFO Authors - GetAuthors : Executed
+2020-07-09 00:05:20.0863 INFO Authors - GetAuthors: Successfull
+2020-07-09 00:15:27.5721 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 00:15:27.8681 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 00:17:51.4240 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 00:17:51.4830 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 00:17:52.9348 INFO Authors - GetAuthors : Executed
+2020-07-09 00:17:52.9981 INFO Authors - GetAuthors: Successfull
+2020-07-09 00:22:02.1173 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 00:22:02.5031 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 00:22:25.7796 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 00:22:25.8735 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 00:22:28.4736 INFO Authors - GetAuthors : Executed
+2020-07-09 00:22:28.5776 INFO Authors - GetAuthors: Successfull
+2020-07-09 00:22:37.9653 INFO Authors - Create: Create Attempted
+2020-07-09 00:22:38.4156 INFO Authors - Create: Creation was Successful
+2020-07-09 00:22:38.4156 INFO Authors - Create: BookStore_API.Data.Author
+2020-07-09 00:22:38.4831 INFO Authors - GetAuthors : Executed
+2020-07-09 00:22:38.4831 INFO Authors - GetAuthors: Successfull
+2020-07-09 00:40:07.7741 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 00:40:08.1126 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 00:40:11.1226 INFO Authors - GetAuthors : Executed
+2020-07-09 00:40:11.2357 INFO Authors - GetAuthors: Successfull
+2020-07-09 00:40:45.1886 INFO Users - Login: Login Attemp from user arwen@gmail.com
+2020-07-09 00:40:45.2427 INFO Users - Login: arwen@gmail.com Successfully Authenticated
+2020-07-09 00:40:47.7427 INFO Authors - GetAuthors : Executed
+2020-07-09 00:40:47.7853 INFO Authors - GetAuthors: Successfull
+2020-07-09 00:40:55.0609 INFO Authors - GetAuthor: Executed with Id:1
+2020-07-09 00:40:55.1547 INFO Authors - GetAuthor: Successfull with Id:1
+2020-07-09 00:40:58.9642 INFO Authors - GetAuthors : Executed
+2020-07-09 00:40:58.9942 INFO Authors - GetAuthors: Successfull
+2020-07-09 00:41:01.1240 INFO Authors - GetAuthor: Executed with Id:1
+2020-07-09 00:41:01.1377 INFO Authors - GetAuthor: Successfull with Id:1
+2020-07-09 00:41:04.4821 INFO Authors - GetAuthors : Executed
+2020-07-09 00:41:04.5004 INFO Authors - GetAuthors: Successfull
+2020-07-09 00:41:33.5348 INFO Authors - GetAuthor: Executed with Id:1
+2020-07-09 00:41:33.5618 INFO Authors - GetAuthor: Successfull with Id:1
+2020-07-09 01:00:03.9142 INFO Users - Login: Login Attemp from user arwen@gmail.com
+2020-07-09 01:00:04.1745 INFO Users - Login: arwen@gmail.com Successfully Authenticated
+2020-07-09 01:00:06.4149 INFO Authors - GetAuthors : Executed
+2020-07-09 01:00:07.2819 INFO Authors - GetAuthors: Successfull
+2020-07-09 01:00:10.8748 INFO Authors - GetAuthor: Executed with Id:1
+2020-07-09 01:00:10.9731 INFO Authors - GetAuthor: Successfull with Id:1
+2020-07-09 01:00:18.6193 INFO Authors - GetAuthors : Executed
+2020-07-09 01:00:18.6364 INFO Authors - GetAuthors: Successfull
+2020-07-09 01:00:20.3320 INFO Authors - GetAuthor: Executed with Id:1006
+2020-07-09 01:00:20.3696 INFO Authors - GetAuthor: Successfull with Id:1006
+2020-07-09 01:00:22.6283 INFO Authors - GetAuthors : Executed
+2020-07-09 01:00:22.6767 INFO Authors - GetAuthors: Successfull
+2020-07-09 01:00:23.9687 INFO Authors - GetAuthor: Executed with Id:1002
+2020-07-09 01:00:24.0008 INFO Authors - GetAuthor: Successfull with Id:1002
+2020-07-09 01:00:26.9935 INFO Authors - GetAuthors : Executed
+2020-07-09 01:00:27.0239 INFO Authors - GetAuthors: Successfull
+2020-07-09 01:00:38.7155 INFO Authors - GetAuthor: Executed with Id:1
+2020-07-09 01:00:38.7707 INFO Authors - GetAuthor: Successfull with Id:1
+2020-07-09 01:00:40.2060 INFO Authors - GetAuthors : Executed
+2020-07-09 01:00:40.2187 INFO Authors - GetAuthors: Successfull
+2020-07-09 01:00:41.1818 INFO Authors - GetAuthor: Executed with Id:2
+2020-07-09 01:00:41.2087 INFO Authors - GetAuthor: Successfull with Id:2
+2020-07-09 01:00:43.0395 INFO Authors - GetAuthors : Executed
+2020-07-09 01:00:43.0580 INFO Authors - GetAuthors: Successfull
+2020-07-09 01:00:44.6484 INFO Authors - GetAuthor: Executed with Id:1004
+2020-07-09 01:00:44.6771 INFO Authors - GetAuthor: Successfull with Id:1004
+2020-07-09 01:00:58.2140 INFO Authors - GetAuthors : Executed
+2020-07-09 01:00:58.2296 INFO Authors - GetAuthors: Successfull
+2020-07-09 01:00:59.6606 INFO Authors - GetAuthor: Executed with Id:1004
+2020-07-09 01:00:59.6727 INFO Authors - GetAuthor: Successfull with Id:1004
+2020-07-09 01:01:00.6427 INFO Authors - GetAuthors : Executed
+2020-07-09 01:01:00.6517 INFO Authors - GetAuthors: Successfull
+2020-07-09 01:01:01.4686 INFO Authors - GetAuthor: Executed with Id:1006
+2020-07-09 01:01:01.4770 INFO Authors - GetAuthor: Successfull with Id:1006
+2020-07-09 01:01:02.4680 INFO Authors - GetAuthors : Executed
+2020-07-09 01:01:02.4788 INFO Authors - GetAuthors: Successfull
+2020-07-09 01:01:06.8863 INFO Authors - GetAuthor: Executed with Id:1004
+2020-07-09 01:01:06.8863 INFO Authors - GetAuthor: Successfull with Id:1004
