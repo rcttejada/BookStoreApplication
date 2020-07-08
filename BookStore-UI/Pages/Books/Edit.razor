@@ -6,7 +6,7 @@
 @inject IAuthorRepository _authorRepo
 @inject IFileUpload _fileUpload
 @inject NavigationManager _navManager
-@*@inject IToastService _toastService*@
+@inject IToastService _toastService
 
 
 <h3 class="card-title">Edit Book</h3>
@@ -126,7 +126,7 @@ else
             isSuccess = await _repo.Update(Endpoints.BooksEndpoint, Model, Model.Id);
             if (isSuccess)
             {
-                //_toastService.ShowWarning("Book Updated Successfully", "");
+                _toastService.ShowWarning("Book Updated Successfully", "");
                 BackToList();
             }
         }

@@ -5,7 +5,7 @@
 @inject IAuthorRepository _authorRepo
 @inject IFileUpload _fileUpload
 @inject NavigationManager _navManager
-@*@inject IToastService _toastService*@
+@inject IToastService _toastService
 
 <h3 class="card-title">Create Book</h3>
 <br />
@@ -94,7 +94,7 @@
                 var picId = Guid.NewGuid().ToString().Replace("-", "");
                 var picName = $"{picId}{ext}";
 
-                 _fileUpload.UploadFile(file, msFile, picName);
+                _fileUpload.UploadFile(file, msFile, picName);
 
                 Model.Image = picName;
             }
@@ -102,7 +102,7 @@
             isSuccess = await _repo.Create(Endpoints.BooksEndpoint, Model);
             if (isSuccess)
             {
-                //_toastService.ShowSuccess("Book Created Successfully", "");
+                _toastService.ShowSuccess("Book Created Successfully", "");
                 BackToList();
             }
         }

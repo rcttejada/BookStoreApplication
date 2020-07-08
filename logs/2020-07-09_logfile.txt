@@ -254,3 +254,91 @@
 2020-07-09 03:45:20.5131 INFO Authors - GetAuthors: Successfull
 2020-07-09 03:45:21.6271 INFO Books - GetBooks: Attmpted Call
 2020-07-09 03:45:21.7139 INFO Books - GetBooks: Successful
+2020-07-09 04:07:36.2906 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 04:07:36.7001 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 04:07:41.4054 INFO Books - GetBooks: Attmpted Call
+2020-07-09 04:07:41.6267 INFO Books - GetBooks: Successful
+2020-07-09 04:07:44.3793 INFO Books - GetBook: Attmpted Call for id: 7
+2020-07-09 04:07:44.4256 INFO Books - GetBook: Successful got record by id: 7
+2020-07-09 04:07:44.4824 INFO Authors - GetAuthors : Executed
+2020-07-09 04:07:44.5428 INFO Authors - GetAuthors: Successfull
+2020-07-09 04:07:51.7752 INFO Books - Update: Update Attempted on record with id:7
+2020-07-09 04:07:52.1166 WARN Books - Update: Record with id: 7 successfulyy updated
+2020-07-09 04:07:52.1846 INFO Books - GetBooks: Attmpted Call
+2020-07-09 04:07:52.1966 INFO Books - GetBooks: Successful
+2020-07-09 04:08:35.8957 INFO Books - GetBook: Attmpted Call for id: 4
+2020-07-09 04:08:35.9774 INFO Books - GetBook: Successful got record by id: 4
+2020-07-09 04:08:36.0045 INFO Authors - GetAuthors : Executed
+2020-07-09 04:08:36.0186 INFO Authors - GetAuthors: Successfull
+2020-07-09 04:08:48.5331 INFO Books - Update: Update Attempted on record with id:4
+2020-07-09 04:08:48.5801 WARN Books - Update: Record with id: 4 successfulyy updated
+2020-07-09 04:08:48.8301 INFO Books - GetBooks: Attmpted Call
+2020-07-09 04:08:48.8733 INFO Books - GetBooks: Successful
+2020-07-09 04:08:52.2757 INFO Books - GetBook: Attmpted Call for id: 5
+2020-07-09 04:08:52.4009 INFO Books - GetBook: Successful got record by id: 5
+2020-07-09 04:08:52.4957 INFO Authors - GetAuthors : Executed
+2020-07-09 04:08:52.5126 INFO Authors - GetAuthors: Successfull
+2020-07-09 04:08:59.0050 INFO Books - Update: Update Attempted on record with id:5
+2020-07-09 04:08:59.0458 WARN Books - Update: Record with id: 5 successfulyy updated
+2020-07-09 04:08:59.1900 INFO Books - GetBooks: Attmpted Call
+2020-07-09 04:08:59.2051 INFO Books - GetBooks: Successful
+2020-07-09 04:11:33.7313 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 04:11:34.1158 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 04:11:36.1466 INFO Books - GetBooks: Attmpted Call
+2020-07-09 04:11:36.3918 INFO Books - GetBooks: Successful
+2020-07-09 04:11:40.2293 INFO Books - GetBook: Attmpted Call for id: 5
+2020-07-09 04:11:40.3032 INFO Books - GetBook: Successful got record by id: 5
+2020-07-09 04:11:44.0309 INFO Authors - GetAuthor: Executed with Id:1006
+2020-07-09 04:11:44.1652 INFO Authors - GetAuthor: Successfull with Id:1006
+2020-07-09 04:11:46.8858 INFO Authors - GetAuthors : Executed
+2020-07-09 04:11:46.9616 INFO Authors - GetAuthors: Successfull
+2020-07-09 04:11:50.9200 INFO Books - GetBooks: Attmpted Call
+2020-07-09 04:11:50.9508 INFO Books - GetBooks: Successful
+2020-07-09 04:11:53.4871 INFO Books - GetBook: Attmpted Call for id: 5
+2020-07-09 04:11:53.5187 INFO Books - GetBook: Successful got record by id: 5
+2020-07-09 04:11:55.7896 INFO Books - Delete: Delete Attempted on record with - id: 5
+2020-07-09 04:11:56.1476 INFO Books - Delete: Record with id: 5 successfully deleted
+2020-07-09 04:11:56.2136 INFO Books - GetBooks: Attmpted Call
+2020-07-09 04:11:56.2136 INFO Books - GetBooks: Successful
+2020-07-09 04:12:23.7666 INFO Authors - GetAuthors : Executed
+2020-07-09 04:12:23.8730 INFO Authors - GetAuthors: Successfull
+2020-07-09 04:12:25.2737 INFO Books - GetBooks: Attmpted Call
+2020-07-09 04:12:25.2964 INFO Books - GetBooks: Successful
+2020-07-09 04:28:37.5069 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 04:28:37.8126 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 04:28:40.5421 INFO Authors - GetAuthors : Executed
+2020-07-09 04:28:40.7372 INFO Authors - GetAuthors: Successfull
+2020-07-09 04:28:59.1379 INFO Authors - Create: Create Attempted
+2020-07-09 04:28:59.4337 INFO Authors - Create: Creation was Successful
+2020-07-09 04:28:59.4337 INFO Authors - Create: BookStore_API.Data.Author
+2020-07-09 04:28:59.4922 INFO Authors - GetAuthors : Executed
+2020-07-09 04:28:59.4922 INFO Authors - GetAuthors: Successfull
+2020-07-09 04:29:02.7378 INFO Books - GetBooks: Attmpted Call
+2020-07-09 04:29:02.8152 INFO Books - GetBooks: Successful
+2020-07-09 04:29:04.1515 INFO Authors - GetAuthors : Executed
+2020-07-09 04:29:04.1515 INFO Authors - GetAuthors: Successfull
+2020-07-09 04:29:18.8672 INFO Books - Create: Create Attempted
+2020-07-09 04:29:18.9834 INFO Books - Create: Creation was succesful
+2020-07-09 04:29:18.9834 INFO Books - Create: BookStore_API.Data.Book
+2020-07-09 04:29:19.1248 INFO Books - GetBooks: Attmpted Call
+2020-07-09 04:29:19.1531 INFO Books - GetBooks: Successful
+2020-07-09 04:31:21.5861 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 04:31:22.0463 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 04:31:24.8133 INFO Authors - GetAuthors : Executed
+2020-07-09 04:31:25.1004 INFO Authors - GetAuthors: Successfull
+2020-07-09 04:31:26.4129 INFO Books - GetBooks: Attmpted Call
+2020-07-09 04:31:26.4497 INFO Books - GetBooks: Successful
+2020-07-09 04:31:28.9150 INFO Books - GetBook: Attmpted Call for id: 4
+2020-07-09 04:31:28.9729 INFO Books - GetBook: Successful got record by id: 4
+2020-07-09 04:31:34.1996 INFO Books - GetBooks: Attmpted Call
+2020-07-09 04:31:34.2194 INFO Books - GetBooks: Successful
+2020-07-09 04:31:39.5165 INFO Books - GetBook: Attmpted Call for id: 4
+2020-07-09 04:31:39.5726 INFO Books - GetBook: Successful got record by id: 4
+2020-07-09 04:31:42.0989 INFO Books - GetBooks: Attmpted Call
+2020-07-09 04:31:42.1211 INFO Books - GetBooks: Successful
+2020-07-09 04:31:44.7791 INFO Books - GetBook: Attmpted Call for id: 8
+2020-07-09 04:31:44.7944 INFO Books - GetBook: Successful got record by id: 8
+2020-07-09 04:31:48.4714 INFO Books - Delete: Delete Attempted on record with - id: 8
+2020-07-09 04:31:48.7703 INFO Books - Delete: Record with id: 8 successfully deleted
+2020-07-09 04:31:48.8767 INFO Books - GetBooks: Attmpted Call
+2020-07-09 04:31:48.8827 INFO Books - GetBooks: Successful
