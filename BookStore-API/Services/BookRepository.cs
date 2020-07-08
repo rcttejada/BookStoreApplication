@@ -10,52 +10,55 @@ namespace BookStore_API.Services
 {
     public class BookRepository : IBookRepository
     {
-        private readonly ApplicationDbContext db;
+        private readonly ApplicationDbContext _db;
 
         public BookRepository(ApplicationDbContext db)
         {
-            this.db = db;
+            _db = db;
         }
-
         public async Task<bool> Create(Book entity)
         {
-            await db.Books.AddAsync(entity);
+            await _db.Books.AddAsync(entity);
             return await Save();
         }
 
         public async Task<bool> Delete(Book entity)
         {
-            db.Books.Remove(entity);
+            _db.Books.Remove(entity);
             return await Save();
         }
 
         public async Task<IList<Book>> FindAll()
         {
-            var books =  await db.Books.ToListAsync();
+            var books = await _db.Books
+                .Include(q => q.Author)
+                .ToListAsync();
             return books;
         }
 
         public async Task<Book> FindById(int id)
         {
-            var books = await db.Books.FindAsync(id);
-            return books;
+            var book = await _db.Books
+                .Include(q => q.Author)
+                .FirstOrDefaultAsync(q => q.Id == id);
+            return book;
         }
 
         public async Task<bool> isExists(int id)
         {
-            var isExists = await db.Books.AnyAsync(q => q.Id == id);
+            var isExists = await _db.Books.AnyAsync(q => q.Id == id);
             return isExists;
         }
 
         public async Task<bool> Save()
         {
-            var changes = await db.SaveChangesAsync();
+            var changes = await _db.SaveChangesAsync();
             return changes > 0;
         }
 
         public async Task<bool> Update(Book entity)
         {
-            db.Books.Update(entity);
+            _db.Books.Update(entity);
             return await Save();
         }
     }

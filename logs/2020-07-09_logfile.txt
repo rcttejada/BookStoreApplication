@@ -93,3 +93,164 @@
 2020-07-09 01:01:02.4788 INFO Authors - GetAuthors: Successfull
 2020-07-09 01:01:06.8863 INFO Authors - GetAuthor: Executed with Id:1004
 2020-07-09 01:01:06.8863 INFO Authors - GetAuthor: Successfull with Id:1004
+2020-07-09 01:39:27.6317 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 01:39:28.0456 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 01:39:31.8454 INFO Authors - GetAuthors : Executed
+2020-07-09 01:39:32.0859 INFO Authors - GetAuthors: Successfull
+2020-07-09 01:39:45.0323 INFO Books - GetBooks: Attmpted Call
+2020-07-09 01:39:45.1324 INFO Books - GetBooks: Successful
+2020-07-09 01:45:26.0697 INFO Users - Login: Login Attemp from user arwen@gmail.com
+2020-07-09 01:45:26.4374 INFO Users - Login: arwen@gmail.com Successfully Authenticated
+2020-07-09 01:45:28.6895 INFO Books - GetBooks: Attmpted Call
+2020-07-09 01:45:28.9317 INFO Books - GetBooks: Successful
+2020-07-09 02:02:23.2300 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 02:02:23.5060 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 02:02:25.7079 INFO Books - GetBooks: Attmpted Call
+2020-07-09 02:02:25.8865 INFO Books - GetBooks: Successful
+2020-07-09 02:02:28.6164 INFO Books - GetBook: Attmpted Call for id: 4
+2020-07-09 02:02:28.6875 INFO Books - GetBook: Successful got record by id: 4
+2020-07-09 02:02:52.1508 INFO Books - GetBooks: Attmpted Call
+2020-07-09 02:02:52.1675 INFO Books - GetBooks: Successful
+2020-07-09 03:06:07.4634 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 03:06:07.7178 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 03:06:09.9319 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:06:10.1482 INFO Books - GetBooks: Successful
+2020-07-09 03:06:25.6147 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 03:06:25.7113 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 03:06:28.9276 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:06:28.9568 INFO Books - GetBooks: Successful
+2020-07-09 03:12:13.1983 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 03:12:13.5070 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 03:12:15.9567 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:12:16.1329 INFO Books - GetBooks: Successful
+2020-07-09 03:12:43.2720 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 03:12:43.3319 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 03:12:45.5081 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:12:45.5285 INFO Books - GetBooks: Successful
+2020-07-09 03:14:07.8036 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 03:14:08.0756 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 03:14:13.2906 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:14:13.4774 INFO Books - GetBooks: Successful
+2020-07-09 03:14:17.3269 INFO Books - GetBook: Attmpted Call for id: 4
+2020-07-09 03:14:17.3847 INFO Books - GetBook: Successful got record by id: 4
+2020-07-09 03:14:31.1661 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:14:31.1948 INFO Books - GetBooks: Successful
+2020-07-09 03:14:45.2578 INFO Authors - GetAuthors : Executed
+2020-07-09 03:14:45.3836 INFO Authors - GetAuthors: Successfull
+2020-07-09 03:15:18.0331 INFO Books - Create: Create Attempted
+2020-07-09 03:15:18.5947 INFO Books - Create: Creation was succesful
+2020-07-09 03:15:18.5947 INFO Books - Create: BookStore_API.Data.Book
+2020-07-09 03:15:18.7060 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:15:18.7196 INFO Books - GetBooks: Successful
+2020-07-09 03:15:30.1340 INFO Books - GetBook: Attmpted Call for id: 7
+2020-07-09 03:15:30.1718 INFO Books - GetBook: Successful got record by id: 7
+2020-07-09 03:17:37.9136 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 03:17:38.3380 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 03:17:42.3710 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:17:42.6178 INFO Books - GetBooks: Successful
+2020-07-09 03:17:44.1878 INFO Books - GetBook: Attmpted Call for id: 4
+2020-07-09 03:17:44.2235 INFO Books - GetBook: Successful got record by id: 4
+2020-07-09 03:17:44.2632 INFO Authors - GetAuthors : Executed
+2020-07-09 03:17:44.3255 INFO Authors - GetAuthors: Successfull
+2020-07-09 03:17:56.2008 INFO Books - Update: Update Attempted on record with id:4
+2020-07-09 03:17:56.5374 WARN Books - Update: Record with id: 4 successfulyy updated
+2020-07-09 03:17:56.5898 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:17:56.5898 INFO Books - GetBooks: Successful
+2020-07-09 03:18:05.5351 INFO Authors - GetAuthors : Executed
+2020-07-09 03:18:05.5850 INFO Authors - GetAuthors: Successfull
+2020-07-09 03:18:07.6370 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:18:07.6646 INFO Books - GetBooks: Successful
+2020-07-09 03:18:15.6071 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 03:18:15.8030 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 03:18:17.1323 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:18:17.1501 INFO Books - GetBooks: Successful
+2020-07-09 03:18:29.4288 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 03:18:29.4924 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 03:18:31.8442 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:18:31.8630 INFO Books - GetBooks: Successful
+2020-07-09 03:20:19.3818 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 03:20:19.6487 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 03:20:21.7137 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:20:21.9291 INFO Books - GetBooks: Successful
+2020-07-09 03:23:37.7271 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 03:23:38.0261 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 03:23:51.7642 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 03:23:51.8399 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 03:23:54.0339 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:23:54.2079 INFO Books - GetBooks: Successful
+2020-07-09 03:26:08.3205 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 03:26:08.6230 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 03:26:11.2804 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:26:11.5121 INFO Books - GetBooks: Successful
+2020-07-09 03:26:17.7456 INFO Authors - GetAuthors : Executed
+2020-07-09 03:26:17.8355 INFO Authors - GetAuthors: Successfull
+2020-07-09 03:26:19.8941 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:26:19.9007 INFO Books - GetBooks: Successful
+2020-07-09 03:27:45.1197 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 03:27:45.4003 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 03:27:47.5028 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:27:47.6829 INFO Books - GetBooks: Successful
+2020-07-09 03:28:36.1693 INFO Authors - GetAuthors : Executed
+2020-07-09 03:28:36.2556 INFO Authors - GetAuthors: Successfull
+2020-07-09 03:28:37.7580 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:28:37.7580 INFO Books - GetBooks: Successful
+2020-07-09 03:28:45.4384 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 03:28:45.5024 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 03:28:46.8481 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:28:46.8701 INFO Books - GetBooks: Successful
+2020-07-09 03:29:19.3529 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 03:29:19.5957 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 03:29:21.9781 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:29:22.1751 INFO Books - GetBooks: Successful
+2020-07-09 03:32:54.3048 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 03:32:54.5881 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 03:32:56.6300 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:32:56.8226 INFO Books - GetBooks: Successful
+2020-07-09 03:33:14.1805 INFO Authors - GetAuthors : Executed
+2020-07-09 03:33:14.2759 INFO Authors - GetAuthors: Successfull
+2020-07-09 03:33:16.5585 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:33:16.5585 INFO Books - GetBooks: Successful
+2020-07-09 03:34:51.8198 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 03:34:52.1480 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 03:34:55.3981 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:34:55.5723 INFO Books - GetBooks: Successful
+2020-07-09 03:35:36.3530 INFO Authors - GetAuthors : Executed
+2020-07-09 03:35:36.4951 INFO Authors - GetAuthors: Successfull
+2020-07-09 03:35:37.7004 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:35:37.7106 INFO Books - GetBooks: Successful
+2020-07-09 03:35:52.9497 INFO Books - GetBook: Attmpted Call for id: 4
+2020-07-09 03:35:52.9909 INFO Books - GetBook: Successful got record by id: 4
+2020-07-09 03:35:53.0129 INFO Authors - GetAuthors : Executed
+2020-07-09 03:35:53.0129 INFO Authors - GetAuthors: Successfull
+2020-07-09 03:36:00.6059 INFO Books - Update: Update Attempted on record with id:4
+2020-07-09 03:36:00.8725 WARN Books - Update: Record with id: 4 successfulyy updated
+2020-07-09 03:36:00.9269 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:36:00.9326 INFO Books - GetBooks: Successful
+2020-07-09 03:40:11.3665 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 03:40:11.6227 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 03:40:13.9567 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:40:14.1536 INFO Books - GetBooks: Successful
+2020-07-09 03:40:24.3937 INFO Books - GetBook: Attmpted Call for id: 5
+2020-07-09 03:40:24.4334 INFO Books - GetBook: Successful got record by id: 5
+2020-07-09 03:40:24.4753 INFO Authors - GetAuthors : Executed
+2020-07-09 03:40:24.5443 INFO Authors - GetAuthors: Successfull
+2020-07-09 03:40:43.6226 INFO Books - Update: Update Attempted on record with id:5
+2020-07-09 03:40:43.8713 WARN Books - Update: Record with id: 5 successfulyy updated
+2020-07-09 03:40:43.9306 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:40:43.9446 INFO Books - GetBooks: Successful
+2020-07-09 03:44:33.7133 INFO Users - Login: Login Attemp from user oliver@gmail.com
+2020-07-09 03:44:33.9853 INFO Users - Login: oliver@gmail.com Successfully Authenticated
+2020-07-09 03:44:35.8880 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:44:36.0938 INFO Books - GetBooks: Successful
+2020-07-09 03:44:39.0792 INFO Books - GetBook: Attmpted Call for id: 6
+2020-07-09 03:44:39.1361 INFO Books - GetBook: Successful got record by id: 6
+2020-07-09 03:44:39.1771 INFO Authors - GetAuthors : Executed
+2020-07-09 03:44:39.2393 INFO Authors - GetAuthors: Successfull
+2020-07-09 03:44:48.4078 INFO Books - Update: Update Attempted on record with id:6
+2020-07-09 03:44:48.6820 WARN Books - Update: Record with id: 6 successfulyy updated
+2020-07-09 03:44:48.7490 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:44:48.7490 INFO Books - GetBooks: Successful
+2020-07-09 03:45:20.1463 INFO Authors - GetAuthors : Executed
+2020-07-09 03:45:20.5131 INFO Authors - GetAuthors: Successfull
+2020-07-09 03:45:21.6271 INFO Books - GetBooks: Attmpted Call
+2020-07-09 03:45:21.7139 INFO Books - GetBooks: Successful
